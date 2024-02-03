@@ -39,7 +39,8 @@ body {
 
 /* 上の部分は気にせずここから書く */
 img {
-  zoom: 1.8;
+  /*zoom: 1.8;*/
+  width: 110vh;
   margin-top: 5px ;
   margin-left: auto;
   margin-right: auto;

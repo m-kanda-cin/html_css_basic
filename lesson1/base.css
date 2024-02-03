@@ -38,13 +38,6 @@ body {
 }
 
 /* 上の部分は気にせずここから書く */
-#black {
-  color:black;
-}
-
-#white {
-  color:white;
-}
 
 .main{
   display: flex;
@@ -63,6 +56,10 @@ div {
 }
 
 #bk {
+  background-color: black;
+}
+
+#bk p{
   color: white;
 }
 
